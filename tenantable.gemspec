@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.homepage        = "http://rubygems.org/gems/tenantable"
 
   
-  s.add_dependency 'activerecord', '~> 3.2.0'
+  s.add_dependency 'activerecord', '~> 4.1.4'
 
 
 end
